@@ -1,6 +1,6 @@
-# ProxyToken
+# Proxy Token Validator
 
-Servidor proxy Express.js com validação reCAPTCHA para requisições da API do GitHub.
+Servidor proxy Express.js com validação reCAPTCHA para requisições a API do GitHub para exploração de repositorios.
 
 ## Funcionalidades
 
